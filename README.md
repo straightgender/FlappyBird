@@ -1,2 +1,1 @@
-I attempted to create the game flappy bird in java using libgdx framework...
-I was successful
+Made for mobile devices, The GUI is small. It isn't that good
