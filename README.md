@@ -10,3 +10,4 @@ Run Desktop Launcher
 
 - 🎶 **Background Music**: Some music 
 - 🎨 **Simple Colors**: Some boring colors to match the beat
+- A Small GUI cz my dumb brain wanted to play on mobile
